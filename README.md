@@ -143,3 +143,23 @@ Every problem solved is another step toward becoming a better problem solver and
 **Happy Coding! 💻**
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/SayedNehalAhmad/leetcode_problems/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/SayedNehalAhmad/leetcode_problems/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/SayedNehalAhmad/leetcode_problems/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/SayedNehalAhmad/leetcode_problems/tree/master/0100-same-tree) |
+<!---LeetCode Topics End-->
